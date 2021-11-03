@@ -23,7 +23,7 @@
 
 <img src='./my_portifolio/img/conhecimentos.png ' width='100%'/>
 
-- ### Sessao de conhecimentos
+- ### Sessão de conhecimentos
 * HMTL5
 * CSS3
 * Design
@@ -33,7 +33,7 @@
 
 <img src='./my_portifolio/img/projetos.png ' width='100%'/>
 
-### Sessao de projetos
+### Sessão de projetos
 - Card
 * Todo List
 * JavaScript
@@ -44,14 +44,14 @@
 
 <img src='./my_portifolio/img/contato.png ' width='100%'/>
 
-### Sessao de contato
+### Sessão de contato
 * Nome 
 * E-mail
 * Menssagem
 
 <img src='./my_portifolio/img/orcamento.png ' width='100%'/>
 
-###  Sessao de orçamento
+###  Sessão de orçamento
 * Qtde de Páginas
 * Preciso de um script JS
 * Preciso de um layout
