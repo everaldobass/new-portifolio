@@ -50,7 +50,8 @@
 * Menssagem
 
 <img src='./my_portifolio/img/orcamento.png ' width='100%'/>
-### Sessao de orçamento
+
+###  Sessao de orçamento
 * Qtde de Páginas
 * Preciso de um script JS
 * Preciso de um layout
@@ -58,5 +59,5 @@
 * Prazo
 
 ### Footer
-- footer-content
+* footer-content
 * Social-list
