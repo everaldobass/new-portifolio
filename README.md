@@ -1,12 +1,13 @@
 # Desenvolvimento de um Portifólio
 
-## Referência do Projeto Original
+### Referência do Projeto Original
 - João Carlos Lima Silva - https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV&index=1
 - link - https://cdnjs.com/libraries/font-awesome/5.12.0-2
 - Google - https://fonts.google.com/
 - Favico - https://favicon.io/
 - Fonte de Consulta - https://developer.mozilla.org/pt-BR/docs/Web
--
+- Wallpaper - https://www.wallpaperflare.com/
+
  Desenvolvimento com o objetivo de fixar o conhecimento das tecnologias HTML, CSS e JavaScript, toda documentação está com os comentários.
  
 ## Estrutura do Documento HTML
