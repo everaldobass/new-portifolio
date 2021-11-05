@@ -47,7 +47,7 @@
 ### Sessão de contato
 * Nome 
 * E-mail
-* Menssagem
+* Mensagem
 
 <img src='./my_portifolio/img/orcamento.png ' width='100%'/>
 
